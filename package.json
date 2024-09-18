@@ -1,0 +1,23 @@
+{
+  "name": "latest-api-practise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "restful"
+  ],
+  "author": "Naveen Prajapati",
+  "license": "ISC",
+  "description": "a latest backend api",
+  "devDependencies": {
+    "nodemon": "^3.1.5",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
